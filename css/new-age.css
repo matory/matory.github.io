@@ -151,11 +151,11 @@ header {
   width: 100%;
   min-height: auto;
   overflow-y: hidden;
-  background: url("../img/bg-pattern.png"), #40c44d;
+  background: url("../img/bg-pattern.png"), #3a58bf;
   /* fallback for old browsers */
-  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #40c44d, #138630);
+  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #3a58bf, #1c1386);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #40c44d, #138630);
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #3a58bf, #1c1386);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: white;
 }
@@ -393,9 +393,9 @@ footer ul li a.active {
   text-decoration: none;
 }
 .bg-primary {
-  background: #3abf29;
-  background: -webkit-linear-gradient(#3abf52, #3ab539);
-  background: linear-gradient(#3abf52, #3ab539);
+  background: #295cbf;
+  background: -webkit-linear-gradient(#305fb0, #292f55);
+  background: linear-gradient(#305fb0, #292f55);
 }
 .text-primary {
   color: #fdcc52;
